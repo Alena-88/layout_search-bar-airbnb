@@ -12,13 +12,6 @@
   font-style: normal;
 }
 
-body {
-  margin: 0;
-  font-family: Avenir, sans-serif;
-  font-weight: 300;
-  color: #fff;
-}
-
 .search,
 .search__input {
   box-sizing: border-box;
